@@ -1,2 +1,2 @@
 # todolist-typescript
- To Do List build with typescript, css modules, and expressjs
+ To Do List build with typescript, sass, css modules, and expressjs
